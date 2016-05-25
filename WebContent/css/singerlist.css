@@ -1,0 +1,100 @@
+
+.singerCommend{
+	border-top:1px solid #D6EAF3;
+	/*background:url(../images/singerList_bg.png) 40px 0px no-repeat;*/
+	overflow:hidden;
+	clear:both;
+	position:relative;
+	z-index:9;
+}
+.singerCommend ul{
+	width:910px;
+	float:right;
+	padding-top:14px;
+	padding-left:10px;
+	overflow:hidden;
+}
+.singerCommend ul li{
+	width:91px;
+	height:114px;
+	float:left;
+	overflow:hidden;
+}
+.singerCommend ul li a.singerPic{
+	width:75px;
+	height:75px;
+	display:block;
+	overflow:hidden;
+	margin:0px auto;
+}
+.singerCommend ul li a.singerPic img{
+	width:75px;
+	height:100px;
+	margin:-8px auto 0px;
+}
+.singerCommend ul li a.singerName{
+	width:81px;
+	height:38px;
+	overflow:hidden;
+	display:block;
+	text-align:center;
+	margin:0px auto;
+	padding-top:5px;
+	line-height:15px;
+	color:#666;
+}
+/* .singerList{
+	border-top:1px solid #D6EAF3;
+	background:url(../images/singerList_bg.png) 40px 0px no-repeat;
+	overflow:hidden;
+	clear:both;
+	position:relative;
+	z-index:9;
+}
+.singerList h3{
+	width:40px;
+	text-align:center;
+	padding-top:8px;
+	float:left;
+	font-size:22px;
+	font-weight:normal;
+	color:#89BBEE;
+}
+.singerList ul{
+	width:910px;
+	float:right;
+	padding-top:6px;
+	overflow:hidden;
+}
+.singerList ul li{
+	width:166px;
+	height:20px;
+	padding:8px;
+	float:left;
+	font-size:14px;
+	white-space:nowrap;
+	color:#999;
+	overflow:hidden;
+}
+.singerList ul li a{
+	color:#069;
+}
+.singerList ul li a:hover{
+	color:#F30;
+}
+.singerList ul li.hot a{
+	color:#F30;	
+} */
+.anchor{
+	display:block;	
+	width:100%;
+	height:1px;
+	border-bottom:28px solid #FFF;
+	overflow:hidden;
+	background:#0F0;
+	margin-top:-22px;
+	clear:both;
+	visibility:hidden;
+
+}
+
